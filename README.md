@@ -19,7 +19,9 @@
 - 🎲 **Jogo de Dominó** – Desenvolvimento de lógica e interface gráfica
 
 ## 📫 Vamos conectar?
-🔗 [LinkedIn](https://www.linkedin.com/in/junior-diego-santos/)  
+🔗 [LinkedIn]www.linkedin.com/in/
+junior-santos-9b930b211
+  
 📩 **E-mail:** diegojr09@hotmail.com  
 🚀 Sempre aberto a novas oportunidades e colaborações!
 
