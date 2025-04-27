@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 🎓 Formado em **Gestão da Tecnologia da Informação** pela Fatec Jundiaí - Centro Paula Souza (Nota: 9.0)  
-📚 Pós-graduado em **Matemática Financeira e Estatística** e **Segurança da Informação**  
+📚 Pós-graduado em **Matemática Financeira e Estatística** e **Segurança da Informação** - Faculdade Líbano 
 💼 Experiência com **notas fiscais, conferência de materiais e sistema TOTVS**  
 🔍 Interesse em **gestão de projetos, auditorias, desenvolvimento de sistemas e educação**
 
