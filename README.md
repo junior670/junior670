@@ -1,11 +1,10 @@
-# 👋 Olá! Eu sou o Junior Diego Silva dos Santos
-
-## 🚀 Sobre mim
-🎓 Formado em **Gestão da Tecnologia da Informação** pela Fatec Jundiaí - Centro Paula Souza (Nota: 9.0)  
-📚 **Pós-Graduação Lato Sensu-Especialização:** Matemática Financeira e Estatística - Faculdade Líbano (Nota 9.0)
-📚 **Pós-Graduação Lato Sensu-Especialização:** Segurança da Informação - Faculdade Líbano (Nota 9.0)
-💼 Experiência com **notas fiscais, conferência de materiais e sistema TOTVS**  
-🔍 Interesse em **gestão de projetos, auditorias, desenvolvimento de sistemas e educação**
+👋 Olá! Eu sou o Junior Diego Silva dos Santos
+🚀 Sobre mim
+🎓 Formado em Gestão da Tecnologia da Informação pela Fatec Jundiaí - Centro Paula Souza (Nota: 9.0)
+📚 Pós-Graduação Lato Sensu - Especialização em Matemática Financeira e Estatística pela Faculdade Líbano (Nota: 9.0)
+📚 Pós-Graduação Lato Sensu - Especialização em Segurança da Informação pela Faculdade Líbano (Nota: 9.0)
+💼 Experiência com notas fiscais, conferência de materiais e uso do sistema TOTVS
+🔍 Interesses em gestão de projetos, auditorias, desenvolvimento de sistemas e educação
 
 ## 🛠️ Tecnologias e Ferramentas
 - 💻 **Desenvolvimento:** Python (Tkinter, Pygame), Kotlin (Android Studio)
